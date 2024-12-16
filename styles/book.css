@@ -1,0 +1,14 @@
+.book__info{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.2;
+    color: #0d0d0e;
+    background-color: blanchedalmond;
+    border: none;
+    padding: 15px;
+    border-radius: 40%; 
+    display: block;
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+}

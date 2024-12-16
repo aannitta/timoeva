@@ -1,0 +1,18 @@
+/* Стили для центральной части сайта */
+.header{
+    background-color: rgb(248, 215, 184);
+    color: black;
+}
+.header__site-title{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.2;
+    color: #0c0c0c;
+}
+.header__nav-link{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.2;
+    color: #0d0d0e;
+    text-decoration: none;
+}
